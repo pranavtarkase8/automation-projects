@@ -1,0 +1,18 @@
+# Arduino / ESP32
+*.bin
+*.elf
+*.hex
+
+# Arduino IDE
+*.ino~
+build/
+
+# PlatformIO
+.pio/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
